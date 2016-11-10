@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2017 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="headphones" unicode="&#xe0b3;" d="M0 69l0 250q0 207 147 353t353 147 354-147 146-353l0-250q-4-41-35-54t-61 5-29 49l0 250q0 156-109 265t-266 110-266-110-109-265l0-250q-4-41-35-54t-61 5-29 49z m188-157l0 313q0 14 8 22t23 9l62 0q14 0 23-9t9-22l0-313q0-13-9-22t-23-9l-62 0q-14 0-23 9t-8 22z m500 0l0 313q0 14 8 22t23 9l62 0q14 0 23-9t9-22l0-313q0-13-9-22t-23-9l-62 0q-14 0-23 9t-8 22z" horiz-adv-x="1000" />
+
+<glyph glyph-name="vcard" unicode="&#xe722;" d="M900 750q42 0 71-29t29-71l0-600q0-40-29-70t-71-30l-800 0q-40 0-70 30t-30 70l0 600q0 42 30 71t70 29l800 0z m0-700l0 600-800 0 0-600 800 0z m-450 196l0-90-250 0 0 90 250 0z m0 150l0-90-250 0 0 90 250 0z m0 150l0-90-250 0 0 90 250 0z m346-320l4-70-250 0q0 70 6 70 84 22 84 66 0 16-27 56t-27 88q0 110 90 110t90-110q0-48-28-88t-28-56q0-20 21-36t43-22z" horiz-adv-x="1000" />
+
+<glyph glyph-name="twitter" unicode="&#xf099;" d="M904 622q-37-54-90-93 0-8 0-23 0-73-21-145t-64-139-103-117-144-82-181-30q-151 0-276 81 19-2 43-2 126 0 224 77-59 1-105 36t-64 89q19-3 34-3 24 0 48 6-63 13-104 62t-41 115v2q38-21 82-23-37 25-59 64t-22 86q0 49 25 91 68-83 164-133t208-55q-5 21-5 41 0 75 53 127t127 53q79 0 132-57 61 12 115 44-21-64-80-100 52 6 104 28z" horiz-adv-x="928.6" />
+
+<glyph glyph-name="camera" unicode="&#x1f4f7;" d="M500 450q64 0 107-44t43-106-44-106-106-44-106 44-44 106 44 106 106 44z m400 150q42 0 71-29t29-71l0-450q0-40-29-70t-71-30l-800 0q-40 0-70 30t-30 70l0 450q0 42 30 71t70 29l120 0q28 0 40 30l30 92q10 28 40 28l340 0q30 0 40-28l30-92q12-30 40-30l120 0z m-400-550q104 0 177 73t73 177-73 177-177 73-177-73-73-177 73-177 177-73z m366 380q14 0 24 11t10 25-10 24-24 10q-36 0-36-34 0-16 11-26t25-10z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>
